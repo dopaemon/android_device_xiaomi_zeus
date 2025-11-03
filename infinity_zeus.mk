@@ -23,8 +23,8 @@ PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := 2201122G
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BuildDesc="zeus_global-user 15 AQ3A.241006.001 OS2.0.204.0.VLBMIXM release-keys" \
-    BuildFingerprint=Xiaomi/zeus_global/zeus:15/AQ3A.241006.001/OS2.0.204.0.VLBMIXM:user/release-keys \
+    BuildDesc="zeus_global-user 15 AQ3A.241006.001 OS2.0.205.0.VLBMIXM release-keys" \
+    BuildFingerprint=Xiaomi/zeus_global/zeus:15/AQ3A.241006.001/OS2.0.205.0.VLBMIXM:user/release-keys \
     DeviceProduct=zeus \
     SystemName=zeus_global
 

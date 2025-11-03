@@ -21,7 +21,7 @@ TARGET_DEFAULT_PIXEL_LAUNCHER := true
 
 PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
     ro.mist.display=1440 x 3200, 120 hz
-    ro.mist.battery=4500mah
+    ro.mist.battery=4600mah
     ro.mist.soc=Snapdragon® 8 Gen 1
     ro.mist.camera=50MP + 50MP + 50MP
     ro.mist.front=32MP
